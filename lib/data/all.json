@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Code",
+    "image": "assets/images/code_icon.svg"
+  },
+  {
+    "title": "Design",
+    "image": "assets/images/brush_icon.svg"
+  },
+  {
+    "title": "Business",
+    "image": "assets/images/bag_icon.svg"
+  }
+]
